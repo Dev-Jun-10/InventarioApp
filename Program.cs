@@ -19,10 +19,17 @@ Console.WriteLine($"Plataforma: {Environment.OSVersion}");
 Console.WriteLine($"Net version:{Environment.Version}");
 Console.WriteLine();
 Console.WriteLine("Estructura del proyecto:");
+Console.WriteLine("  InventarioApp/");
+Console.WriteLine("  |-- Program.cs");
+Console.WriteLine("  |-- InventarioApp.csproj");
+Console.WriteLine("  |-- .gitignore");
+Console.WriteLine("  |-- README.md");
+Console.WriteLine("  |-- src/");
+Console.WriteLine("      |-- Models/ (Proxima clase)");
 Console.WriteLine("Configuracion .csproj");
 Console.WriteLine("Carpeta src/ creada");
 Console.WriteLine("Metadatos configurados");
 Console.WriteLine();
-Console.WriteLine("Proximo paso: Agregar argumentos CLI y configuracion del repositorio en GitHub");
+Console.WriteLine("Proximo paso: Checkpoint");
 
 

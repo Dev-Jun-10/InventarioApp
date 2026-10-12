@@ -18,7 +18,7 @@ InventarioApp/
 - src/
 
 ## Autor
-Sebastian Martinez
+Felipe Guzmán
 
 ## Progreso del curso
 - [x] Modulo1: El ecosistema .NET
